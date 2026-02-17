@@ -5,7 +5,7 @@ This project explores the power of formal logic in solving times combinatorial p
 
 ---
 
-# # 🚀 Key Features
+# # Key Features
 * **Dual-Reasoning Paradigms**: Provides solutions using both **Propositional Logic** and **First-Order Logic (FOL)**.
 * **Propositional Formulation**: Encodes cell constraints using X_{r,c,n} variables and CNF transformations.
 * **First-Order Predicates**: Uses high-level predicates like Filled(r, c, n)$ to define universal and existential constraints for rows, columns, and 3 times subgrids.
